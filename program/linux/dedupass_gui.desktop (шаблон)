@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=dedupass GUI
+GenericName=Password Dictionary Tool
+Comment=Работа со словарями паролей
+Comment[en]=Password dictionary utility
+Exec=dedupass_gui
+Icon=dedupass
+Terminal=false
+Categories=Utility;Security;
+Keywords=password;dictionary;duplicates;merge;security;
