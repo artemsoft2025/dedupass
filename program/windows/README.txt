@@ -6,6 +6,7 @@
    (c) 2026 AKSoft
    artemsoft@yahoo.com
    https://t.me/avhelpnew
+   https://github.com/artemsoft2025
 
    Удаление дубликатов и объединение текстовых файлов
    с паролями. Работает с файлами любого размера
